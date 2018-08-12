@@ -1,6 +1,8 @@
 ## Bienvenido a mi sitio
 Puedes buscarme en Github como [vdejesusmedrano](https://github.com/vdejesusmedrano/vdejesusmedrano.github.io). Estoy usando un archivo README para previsualizar el contenido de mi sitio.
 
+Para saber acerca de mi visitar el [enlace](https://github.com/vdejesusmedrano/vdejesusmedrano.github.io/edit/master/about.md)
+
 Cuando haga un commit a este repositorio, GitHub Pages ejecutará [Jekyll](https://jekyllrb.com/) para reconstruir las páginas de mi sitio, a partir del contenido de mis archivos Markdown.
 
 ### Markdown
